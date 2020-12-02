@@ -1,0 +1,13 @@
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day1\Accounting\bin\Debug\netcoreapp3.1\Accounting.exe
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day1\Accounting\bin\Debug\netcoreapp3.1\Accounting.deps.json
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day1\Accounting\bin\Debug\netcoreapp3.1\Accounting.runtimeconfig.json
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day1\Accounting\bin\Debug\netcoreapp3.1\Accounting.runtimeconfig.dev.json
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day1\Accounting\bin\Debug\netcoreapp3.1\Accounting.dll
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day1\Accounting\bin\Debug\netcoreapp3.1\Accounting.pdb
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day1\Accounting\obj\Debug\netcoreapp3.1\Accounting.csprojAssemblyReference.cache
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day1\Accounting\obj\Debug\netcoreapp3.1\Accounting.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day1\Accounting\obj\Debug\netcoreapp3.1\Accounting.AssemblyInfo.cs
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day1\Accounting\obj\Debug\netcoreapp3.1\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day1\Accounting\obj\Debug\netcoreapp3.1\Accounting.dll
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day1\Accounting\obj\Debug\netcoreapp3.1\Accounting.pdb
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day1\Accounting\obj\Debug\netcoreapp3.1\Accounting.genruntimeconfig.cache
