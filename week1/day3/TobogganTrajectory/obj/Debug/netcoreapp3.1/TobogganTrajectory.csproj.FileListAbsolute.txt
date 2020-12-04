@@ -1,0 +1,13 @@
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day3\TobogganTrajectory\bin\Debug\netcoreapp3.1\TobogganTrajectory.exe
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day3\TobogganTrajectory\bin\Debug\netcoreapp3.1\TobogganTrajectory.deps.json
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day3\TobogganTrajectory\bin\Debug\netcoreapp3.1\TobogganTrajectory.runtimeconfig.json
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day3\TobogganTrajectory\bin\Debug\netcoreapp3.1\TobogganTrajectory.runtimeconfig.dev.json
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day3\TobogganTrajectory\bin\Debug\netcoreapp3.1\TobogganTrajectory.dll
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day3\TobogganTrajectory\bin\Debug\netcoreapp3.1\TobogganTrajectory.pdb
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day3\TobogganTrajectory\obj\Debug\netcoreapp3.1\TobogganTrajectory.csprojAssemblyReference.cache
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day3\TobogganTrajectory\obj\Debug\netcoreapp3.1\TobogganTrajectory.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day3\TobogganTrajectory\obj\Debug\netcoreapp3.1\TobogganTrajectory.AssemblyInfo.cs
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day3\TobogganTrajectory\obj\Debug\netcoreapp3.1\TobogganTrajectory.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day3\TobogganTrajectory\obj\Debug\netcoreapp3.1\TobogganTrajectory.dll
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day3\TobogganTrajectory\obj\Debug\netcoreapp3.1\TobogganTrajectory.pdb
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day3\TobogganTrajectory\obj\Debug\netcoreapp3.1\TobogganTrajectory.genruntimeconfig.cache

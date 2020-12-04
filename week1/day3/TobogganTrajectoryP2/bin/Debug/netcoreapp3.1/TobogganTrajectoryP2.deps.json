@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TobogganTrajectoryP2/1.0.0": {
+        "runtime": {
+          "TobogganTrajectoryP2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TobogganTrajectoryP2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
