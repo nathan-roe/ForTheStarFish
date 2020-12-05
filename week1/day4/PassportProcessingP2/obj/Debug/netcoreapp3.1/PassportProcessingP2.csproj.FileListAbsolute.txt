@@ -1,0 +1,13 @@
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day4\PassportProcessingP2\bin\Debug\netcoreapp3.1\PassportProcessingP2.exe
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day4\PassportProcessingP2\bin\Debug\netcoreapp3.1\PassportProcessingP2.deps.json
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day4\PassportProcessingP2\bin\Debug\netcoreapp3.1\PassportProcessingP2.runtimeconfig.json
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day4\PassportProcessingP2\bin\Debug\netcoreapp3.1\PassportProcessingP2.runtimeconfig.dev.json
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day4\PassportProcessingP2\bin\Debug\netcoreapp3.1\PassportProcessingP2.dll
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day4\PassportProcessingP2\bin\Debug\netcoreapp3.1\PassportProcessingP2.pdb
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day4\PassportProcessingP2\obj\Debug\netcoreapp3.1\PassportProcessingP2.csprojAssemblyReference.cache
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day4\PassportProcessingP2\obj\Debug\netcoreapp3.1\PassportProcessingP2.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day4\PassportProcessingP2\obj\Debug\netcoreapp3.1\PassportProcessingP2.AssemblyInfo.cs
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day4\PassportProcessingP2\obj\Debug\netcoreapp3.1\PassportProcessingP2.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day4\PassportProcessingP2\obj\Debug\netcoreapp3.1\PassportProcessingP2.dll
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day4\PassportProcessingP2\obj\Debug\netcoreapp3.1\PassportProcessingP2.pdb
+C:\Users\Nathan\Documents\Projects\adventOfCode\week1\day4\PassportProcessingP2\obj\Debug\netcoreapp3.1\PassportProcessingP2.genruntimeconfig.cache
